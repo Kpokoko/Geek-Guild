@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 11d53f603547e854792a883effed2d34
+  - enabled: 1
+    path: Assets/Scenes/Fishing/Level0.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/Fishing/Level1.unity
+    guid: ed63671b2c176ff4d80df5fb7e5517df
+  - enabled: 1
+    path: Assets/Scenes/Harpoon/Harpoon1.unity
+    guid: d3422522f2d3dee48909cbe6345779ee
+  - enabled: 1
+    path: Assets/Scenes/Harpoon/Harpoon0.unity
+    guid: aa9b0fc88be5bde4784ef2e93085d16e
+  - enabled: 1
+    path: Assets/Scenes/Fishing/Level2.unity
+    guid: 5f0dfb513e547e54abcaedde8b900924
+  - enabled: 1
+    path: Assets/Scenes/Harpoon/Harpoon2.unity
+    guid: 5874b91760408a44bb64ec671c4e37f3
+  - enabled: 1
+    path: Assets/Scenes/Fishing/Level3.unity
+    guid: 3f22e1f160052dc4dba0a2b8413e4db6
+  - enabled: 1
+    path: Assets/Scenes/Harpoon/Harpoon3.unity
+    guid: d1faa110156c67e46a934b5a6c7e6c42
+  - enabled: 1
+    path: Assets/Scenes/Fishing/Level4.unity
+    guid: 407bcb405e359c74d867817293d45658
+  - enabled: 1
+    path: Assets/Scenes/Fishing/Level5.unity
+    guid: 5b0aba09f7e50744b8b2f23bd65b901a
+  - enabled: 1
+    path: Assets/Scenes/Fishing/Level6.unity
+    guid: 2769b4a8049f24840bb5681d7b3e74bd
+  - enabled: 1
+    path: Assets/Scenes/Fishing/Level7.unity
+    guid: ee6977e93e06e5945b2d6ea8f86b574f
+  - enabled: 1
+    path: Assets/Scenes/Fishing/Level8.unity
+    guid: d8c83f10a895bc2488c75fc856dcb62f
+  - enabled: 1
+    path: Assets/Scenes/Fishing/Level9.unity
+    guid: 9a203c6073c01e347aa3f9982391690d
+  - enabled: 1
+    path: Assets/Scenes/Fishing/Level10.unity
+    guid: 4929d29107576d54e82242cb74a964fc
+  - enabled: 1
+    path: Assets/Scenes/Fishing/Level11.unity
+    guid: 4dfe59243c939b344b2eb1869c5c3975
+  - enabled: 1
+    path: Assets/Scenes/Fishing/Level12.unity
+    guid: 291683fa219ce994085d9d2513133be5
+  - enabled: 1
+    path: Assets/Scenes/Harpoon/Harpoon5.unity
+    guid: 6982e26957df1914a891179a417f2222
+  - enabled: 1
+    path: Assets/Scenes/Harpoon/Harpoon4.unity
+    guid: 0f77a132c33ed534d80b887daef614a3
+  - enabled: 1
+    path: Assets/Scenes/Harpoon/Harpoon6.unity
+    guid: 677390ae7ea9a31439ab1c42b9bf71d1
+  - enabled: 1
+    path: Assets/Scenes/Harpoon/Harpoon7.unity
+    guid: 26e6c6632e099be489d844b5f2186201
+  - enabled: 1
+    path: Assets/Scenes/Harpoon/Harpoon8.unity
+    guid: 058912154b7b1a94bb890d586cf0ad9e
+  - enabled: 1
+    path: Assets/Scenes/Harpoon/Harpoon9.unity
+    guid: decda1d0969342f4d851032b7cd820a0
+  - enabled: 1
+    path: Assets/Scenes/Harpoon/Harpoon10.unity
+    guid: 245fa17f11223204b98c1a5c13d872d4
+  - enabled: 1
+    path: Assets/Scenes/Harpoon/Harpoon11.unity
+    guid: 99d3d4b5f45b1234c9b7382faaf08298
+  - enabled: 1
+    path: Assets/Scenes/Harpoon/Harpoon12.unity
+    guid: 437ba94a69605e346b180e01d594ce31
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 5ec0d29c012b2cc4f8b19bf5522c974a, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: fd0ce2d89f6053e4d89c2203eec671b0, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 1489fc25b1b61404c858bb9df1a1b21a, type: 2}
